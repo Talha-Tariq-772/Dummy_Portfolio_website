@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* GLOBAL LIGHT / DARK BACKGROUNDS */
+html {
+  @apply bg-white text-gray-900 transition-colors duration-300;
+}
+html.dark {
+  @apply bg-neutral-950 text-gray-200 transition-colors duration-300;
+}
+
+body {
+  @apply bg-white dark:bg-neutral-950 transition-colors duration-300;
+}
