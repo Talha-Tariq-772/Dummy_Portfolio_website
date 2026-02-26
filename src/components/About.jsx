@@ -1,6 +1,6 @@
 "use client";
-import Heading from "./sub/Heading";
-import Achievements from "./sub/Achievements";
+import Heading from "@/components/sub/Heading";
+import Achievements from "@/components/sub/Achievements";
 import Image from "next/image";
 import { aboutData, aboutText, downloadIcon, arrowLeftIcon } from "@/assests";
 

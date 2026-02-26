@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import Heading from "./sub/Heading";
+import Heading from "@/components/sub/Heading";
 import { ChevronDown, HelpCircle } from "lucide-react";
 
 const faqs = [

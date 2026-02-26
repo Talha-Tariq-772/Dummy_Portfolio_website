@@ -54,7 +54,6 @@ export const arrowLeftIcon = <ArrowLeftFillIcon />;
 
 export const aboutText = "I'm Talha Tariq, a Full Stack Developer specializing in end-to-end web application development. Skilled in JavaScript, HTML, CSS, React.js, Node.js, and MongoDB. Experienced with Next.js, Bootstrap, Tailwind CSS, and Framer Motion for creating modern, responsive applications. Proficient in Python for backend development and SQL for database management. Expertise extends to Generative AI, enabling implementation of innovative AI-driven solutions. Dedicated to building scalable, high-performance, and user-friendly applications through full-stack technology integration";
 
-<div className="w-1 absolute rounded-full h-full bg-gray-300"></div>
 
 
 // Skills Data

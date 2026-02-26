@@ -1,5 +1,5 @@
 "use client";
-import Heading from "./sub/Heading";
+import Heading from "@/components/sub/Heading";
 import Image from "next/image";
 import { skillsData } from "@/assests";
 import { motion } from "framer-motion";

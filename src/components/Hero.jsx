@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-import { heroIcons } from "@/assests/index";
+import { heroIcons } from "@/assests";
 import { motion } from "framer-motion";
 import { useState } from "react";
 
